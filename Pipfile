@@ -7,9 +7,15 @@ verify_ssl = true
 
 [packages]
 requests = "*"
-beautifulsoup4 = "*"
 imgkit = "*"
 pillow = "*"
+numpy = "*"
+pandas = "*"
+bs4 = "*"
+pytesseract = "*"
+matplotlib = "*"
+opencv-python = "*"
+urllib3 = ">=1.24.2"
 
 [requires]
 python_version = "3.7"
